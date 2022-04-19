@@ -3,7 +3,7 @@
 
 <h4 align="left">I'm a Full Stack Web Developer (MERN) based in Selu, Maharashtra. I'd say I'm a passionate developer who loves coding. </h4>
 <h4 align="left">I have been fascinated by website pages ever since I have been a teen. My interest in this subject got me to choose a degree in Engineering. However, I felt like I was lacking in skills. Thus, I decided to join Masai School to learn more and grow.
-I am currently learning Full Stack Web Development from Masai School. I have a basic understanding of HTML, CSS, JavaScript, JSON, Express , MongoDB , NodeJS , GitHub. I have hands-on experience of creating web pages, and I am learning new things each day here at Masai School. This is helping me improve every day.
+I am currently learning Full Stack Web Development from Masai School. I have a basic understanding of HTML, CSS, JavaScript, JSON, Express , MongoDB ,React, NodeJS , GitHub. I have hands-on experience of creating web pages, and I am learning new things each day here at Masai School. This is helping me improve every day.
 I am good team player and adaptive in nature. I aspire to be a fine web developer in the future and work in a firm where I can contribute and improve my skills.
 My hobbies are watching web series and listening to music.</h4>
 
