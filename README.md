@@ -2,11 +2,7 @@
 <h1 align="center"> Hi there 👋 I'm Mangesh Niras 🤖</h1>
 
 <h4 align="left">I'm a Full Stack Web Developer (MERN) based in Selu, Maharashtra. I'd say I'm a passionate developer who loves coding. </h4>
-<h4 align="left">  I always thought my dream was to be a proofreader for a little publishing company, sipping my coffee and reading the opening lines to the next best-selling novel. It seemed like an appropriate dream given my MA in English. I gravitated toward proofreading and quality control positions. But I kind of just felt meh. I yearned to learn more, yearned to learn something different.
-
-And that's when it happened; the spark I was missing ignited the instant I clicked play on my first Python tutorial video. (I mean seriously, how could it not be great when it's named after Monty Python's Flying Circus?) Since then, I can't get enough. Front-end web development calls to all my passions; it incorporates creativity and problem solving and I'm allowed to break it to improve the code (in a separate Git branch, of course).
-
-I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those web pages; I'm moldable, but I still keep my creative flare intact.</h4>
+<h4 align="left">  my bio</h4>
 
 <h3 align="left"><i>Let's Connect 🤖</i></h3>
 
