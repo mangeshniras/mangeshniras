@@ -21,7 +21,8 @@ My hobbies are watching web series and listening to music.</h4>
   
 <p>&nbsp;</p>
 
-<!-- <h2 align="center"> Technology / Stack</h2> -->
+<h2 align="center"></h2>
+<hr/>
 
 <img src="https://imgur.com/VtzMu7P.png">
 <p>&nbsp;</p>
